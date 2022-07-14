@@ -1,0 +1,17 @@
+[
+	{
+		"name": "notebook",
+		"price": 5000,
+		"id": 1
+	},
+	{
+		"name": "PC gamer",
+		"price": 7000,
+		"id": 2
+	},
+	{
+		"name": "PC gamer sumergida en oleo mineral",
+		"price": 17000,
+		"id": 3
+	}
+]
